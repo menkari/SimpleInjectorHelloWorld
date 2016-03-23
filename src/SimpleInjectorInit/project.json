@@ -1,4 +1,4 @@
-﻿{
+{
   "userSecretsId": "aspnet5-SimpleInjectorInit-7a60200a-fc66-485d-9776-7a5d92f6a713",
   "version": "1.0.0-*",
   "compilationOptions": {
@@ -18,13 +18,14 @@
     "Microsoft.AspNet.StaticFiles": "1.0.0-rc1-final",
     "Microsoft.AspNet.Tooling.Razor": "1.0.0-rc1-final",
     "Microsoft.Extensions.CodeGenerators.Mvc": "1.0.0-rc1-final",
-    "Microsoft.Extensions.Configuration.FileProviderExtensions" : "1.0.0-rc1-final",
+    "Microsoft.Extensions.Configuration.FileProviderExtensions": "1.0.0-rc1-final",
     "Microsoft.Extensions.Configuration.Json": "1.0.0-rc1-final",
     "Microsoft.Extensions.Configuration.UserSecrets": "1.0.0-rc1-final",
     "Microsoft.Extensions.Logging": "1.0.0-rc1-final",
     "Microsoft.Extensions.Logging.Console": "1.0.0-rc1-final",
     "Microsoft.Extensions.Logging.Debug": "1.0.0-rc1-final",
-    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-rc1-final"
+    "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-rc1-final",
+    "SimpleInjector.Integration.AspNet": "3.1.2-beta4"
   },
 
   "commands": {
@@ -33,7 +34,7 @@
   },
 
   "frameworks": {
-    "dnx451": { },
+    "dnx46": { },
     "dnxcore50": { }
   },
 
